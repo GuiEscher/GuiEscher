@@ -2,7 +2,7 @@
 
 Algumas informações:
 
-- 🌱 Atualmente estudando construção de compiladores e aprimorando conhecimentos em react.js, node.js e typescript
+- 🌱 Atualmente estudando construção de compiladores e aprimorando conhecimentos em react.js, node.js e javascript
 - 📫 Meu email de contato é guilhermeeschersalvador@gmail.com
 - ⚡ Em processo de graduação na Universidade Federal de São Carlos (UFSCar)
 
